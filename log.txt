@@ -1,0 +1,258 @@
+UserID: 5229523134 | Time: 2024-06-01 12:38:46.758400 | Command: /bgmi | Target: 20.204.19.255 | Port: 10022 | Time: 300
+Username: @Ur_Cadbury
+Target: 20.204.19.255
+Port: 10022
+Time: 300
+
+UserID: 5229523134 | Time: 2024-06-01 12:45:22.610223 | Command: /bgmi | Target: 20.204.19.255 | Port: 10022 | Time: 300
+Username: @Ur_Cadbury
+Target: 20.204.19.255
+Port: 10022
+Time: 300
+
+UserID: 5229523134 | Time: 2024-06-01 13:59:02.504520 | Command: /bgmi | Target: 20.235.93.131 | Port: 22247 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.235.93.131
+Port: 22247
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-01 14:14:25.110604 | Command: /bgmi | Target: 20.235.93.131 | Port: 22247 | Time: 10
+Username: @Ur_Cadbury
+Target: 20.235.93.131
+Port: 22247
+Time: 10
+
+UserID: 5229523134 | Time: 2024-06-01 14:15:12.918826 | Command: /bgmi | Target: 20.235.93.131 | Port: 22247 | Time: 120
+Username: @Ur_Cadbury
+Target: 20.235.93.131
+Port: 22247
+Time: 120
+
+UserID: 5229523134 | Time: 2024-06-01 14:19:57.420656 | Command: /bgmi | Target: 20.235.93.131 | Port: 22247 | Time: 60
+Username: @Ur_Cadbury
+Target: 20.235.93.131
+Port: 22247
+Time: 60
+
+UserID: 5229523134 | Time: 2024-06-01 17:42:06.152649 | Command: /bgmi | Target: 20.198.77.126 | Port: 29228 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.198.77.126
+Port: 29228
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-01 17:44:49.009528 | Command: /bgmi | Target: 4.247.16.102 | Port: 25013 | Time: 200
+Username: @Ur_Cadbury
+Target: 4.247.16.102
+Port: 25013
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-01 17:55:09.421130 | Command: /bgmi | Target: 20.204.69.85 | Port: 14558 | Time: 300
+Username: @Ur_Cadbury
+Target: 20.204.69.85
+Port: 14558
+Time: 300
+
+UserID: 5229523134 | Time: 2024-06-01 18:34:46.264089 | Command: /bgmi | Target: 20.198.77.126 | Port: 29215 | Time: 300
+Username: @Ur_Cadbury
+Target: 20.198.77.126
+Port: 29215
+Time: 300
+
+UserID: 5229523134 | Time: 2024-06-01 18:45:38.867682 | Command: /bgmi | Target: 20.204.16.2 | Port: 10467 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.204.16.2
+Port: 10467
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-01 19:12:55.167614 | Command: /bgmi | Target: 20.198.111.53 | Port: 22012 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.198.111.53
+Port: 22012
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-01 19:14:22.954234 | Command: /bgmi | Target: 20.204.19.56 | Port: 10032 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.204.19.56
+Port: 10032
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 04:07:33.431262 | Command: /bgmi | Target: 20.219.21.140 | Port: 15549 | Time: 200
+UserID: 5229523134 | Time: 2024-06-02 04:09:49.299409 | Command: /bgmi | Target: 20.219.21.140 | Port: 15549 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.219.21.140
+Port: 15549
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 04:11:01.089013 | Command: /bgmi | Target: 20.219.6.236 | Port: 10248 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.219.6.236
+Port: 10248
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 04:22:23.814779 | Command: /bgmi | Target: 20.235.20.156 | Port: 16136 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.235.20.156
+Port: 16136
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 04:28:49.518331 | Command: /bgmi | Target: 20.198.72.161 | Port: 19535 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.198.72.161
+Port: 19535
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 05:22:16.849746 | Command: /bgmi | Target: 20.204.16.74 | Port: 13207 | Time: 120
+Username: @Ur_Cadbury
+Target: 20.204.16.74
+Port: 13207
+Time: 120
+
+UserID: 5229523134 | Time: 2024-06-02 10:24:52.591198 | Command: /bgmi | Target: 20.219.164.111 | Port: 18227 | Time: 60
+UserID: 5229523134 | Time: 2024-06-02 10:25:37.493485 | Command: /bgmi | Target: 20.219.164.111 | Port: 18227 | Time: 60
+Username: @Ur_Cadbury
+Target: 20.219.164.111
+Port: 18227
+Time: 60
+
+UserID: 5229523134 | Time: 2024-06-02 10:31:01.724052 | Command: /bgmi | Target: 20.219.164.111 | Port: 18227 | Time: 60
+UserID: 5229523134 | Time: 2024-06-02 10:31:21.008709 | Command: /bgmi | Target: 20.219.164.111 | Port: 18227 | Time: 60
+Username: @Ur_Cadbury
+Target: 20.219.164.111
+Port: 18227
+Time: 60
+
+UserID: 5229523134 | Time: 2024-06-02 10:33:50.794212 | Command: /bgmi | Target: 20.219.164.111 | Port: 18227 | Time: 60
+Username: @Ur_Cadbury
+Target: 20.219.164.111
+Port: 18227
+Time: 60
+
+UserID: 5229523134 | Time: 2024-06-02 10:37:33.565827 | Command: /bgmi | Target: 20.219.164.111 | Port: 18227 | Time: 60
+UserID: 5229523134 | Time: 2024-06-02 10:38:47.682045 | Command: /bgmi | Target: 20.219.164.111 | Port: 18227 | Time: 60
+Username: @Ur_Cadbury
+Target: 20.219.164.111
+Port: 18227
+Time: 60
+
+UserID: 5229523134 | Time: 2024-06-02 10:43:12.289803 | Command: /bgmi | Target: 4.213.64.129 | Port: 26928 | Time: 200
+Username: @Ur_Cadbury
+Target: 4.213.64.129
+Port: 26928
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 11:17:51.927633 | Command: /bgmi | Target: 4.213.64.123 | Port: 29441 | Time: 200
+Username: @Ur_Cadbury
+Target: 4.213.64.123
+Port: 29441
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 11:52:19.653977 | Command: /bgmi | Target: 20.235.20.37 | Port: 14267 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.235.20.37
+Port: 14267
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 11:52:59.547661 | Command: /bgmi | Target: 20.235.20.37 | Port: 14267 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.235.20.37
+Port: 14267
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 12:03:21.358876 | Command: /bgmi | Target: 20.219.79.122 | Port: 21171 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.219.79.122
+Port: 21171
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 12:10:28.613197 | Command: /bgmi | Target: 20.198.79.107 | Port: 27913 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.198.79.107
+Port: 27913
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-02 12:31:08.290883 | Command: /bgmi | Target: 4.247.19.103 | Port: 14940 | Time: 200
+Username: @Ur_Cadbury
+Target: 4.247.19.103
+Port: 14940
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-03 04:34:42.391851 | Command: /bgmi | Target: 4.213.65.121 | Port: 13471 | Time: 200
+Username: @Ur_Cadbury
+Target: 4.213.65.121
+Port: 13471
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-03 04:43:14.137646 | Command: /bgmi | Target: 20.198.79.236 | Port: 18991 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.198.79.236
+Port: 18991
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-03 05:51:59.738552 | Command: /bgmi | Target: 20.235.14.255 | Port: 12945 | Time: 200
+UserID: 5229523134 | Time: 2024-06-03 05:52:25.540373 | Command: /bgmi | Target: 20.235.14.255 | Port: 12945 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.235.14.255
+Port: 12945
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-03 15:10:23.005337 | Command: /bgmi | Target: 20.204.17.0 | Port: 10918 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.204.17.0
+Port: 10918
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-03 15:13:46.777045 | Command: /bgmi | Target: 20.204.17.0 | Port: 10918 | Time: 120
+Username: @Ur_Cadbury
+Target: 20.204.17.0
+Port: 10918
+Time: 120
+
+UserID: 5229523134 | Time: 2024-06-03 15:15:50.976998 | Command: /bgmi | Target: 20.204.17.0 | Port: 10918 | Time: 40
+Username: @Ur_Cadbury
+Target: 20.204.17.0
+Port: 10918
+Time: 40
+
+UserID: 5229523134 | Time: 2024-06-03 15:33:22.104384 | Command: /bgmi | Target: 20.235.150.170 | Port: 22528 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.235.150.170
+Port: 22528
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-05 09:29:08.583063 | Command: /bgmi | Target: 20.198.111.42 | Port: 27434 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.198.111.42
+Port: 27434
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-05 09:49:40.036361 | Command: /bgmi | Target: 20.219.167.158 | Port: 16019 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.219.167.158
+Port: 16019
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-07 07:48:27.794246 | Command: /bgmi | Target: 52.172.29.185 | Port: 16681 | Time: 200
+Username: @Ur_Cadbury
+Target: 52.172.29.185
+Port: 16681
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-07 07:57:14.197303 | Command: /bgmi | Target: 20.204.190.242 | Port: 10039 | Time: 200
+UserID: 5229523134 | Time: 2024-06-07 07:57:22.698289 | Command: /bgmi | Target: 20.219.167.158 | Port: 16019 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.219.167.158
+Port: 16019
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-07 08:22:07.662978 | Command: /bgmi | Target: 20.219.78.93 | Port: 24608 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.219.78.93
+Port: 24608
+Time: 200
+
+UserID: 5229523134 | Time: 2024-06-07 08:32:43.919248 | Command: /bgmi | Target: 20.235.13.245 | Port: 15779 | Time: 200
+Username: @Ur_Cadbury
+Target: 20.235.13.245
+Port: 15779
+Time: 200
+
